@@ -15,9 +15,8 @@ These are some of the recent projects I have designed and developed:
 
 Outside of work, I'm passionate about [poetry](https://alfredo.blog/), surfing, music, learning languages, photography, and traveling.
 
+## I’m always a big YES to new opportunities
 
-<br>
+If you would like us to work together, just get in touch through the contact form or feel free to send me an email.
 
-<a href="https://linkedin.com/in/gutifredo"><i class="ph ph-linkedin-logo"></i></a>
-<a href="https://mastodon.design/@alfredo"><i class="ph ph-mastodon-logo"></i></a>
-<a href="https://www.threads.com/@gutifredo"><i class="ph-fill ph-threads-logo"></i></a>
+<script data-letterbirduser="alfredo" src="https://letterbird.co/embed/v1.js"></script>
