@@ -5,12 +5,15 @@ title: Websites - Alfredo Gutierrez
 ![Profile](/assets/profile.png)
 
 <h1> Alfredo Gutierrez </h1>
+Over the past 10 years, I’ve helped scale startups and companies by developing custom, reliable software that streamlines business processes across the racing, healthcare, surrogacy, legal services, and government contracting industries.
 
-I design digital products that solve real business problems. As a UX designer at Orchid Software Solutions, I create operational software for the surrogacy industry. Over 7 years, I've helped companies scale by building reliable, custom solutions—like [OMP Racing](https://ompracing.com) and [Bell Racing](https://bellracing.com) for Racing Force Group—across healthcare, government contracting, and legal services.
+These are some of the recent projects I have designed and developed:
+- [OMP Racing](https://ompracing.com/)
+- [BELL Helmets](https://www.us.bellracing.com/)
+- [Thomas & Thomas](https://thomasandthomas.flywheelsites.com/)
+- [Nnaico - AI Consulting Agency](https://www.nnaico.com/)
 
 Outside of work, I'm passionate about [poetry](https://alfredo.blog/), surfing, music, learning languages, photography, and traveling.
-
-I share my thoughts and tutorials on design, projects, and personal life on my [blog](https://alfredo.design/blog/). You can also see what I'm currently working on in my [professional changelog](https://alfredo.design/logs/).
 
 
 <br>
