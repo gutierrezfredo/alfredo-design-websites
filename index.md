@@ -8,9 +8,9 @@ title: Websites - Alfredo Gutierrez
 Over the past 10 years, I have helped scale startups and companies by developing custom, reliable software that streamlines business processes in the racing, healthcare, surrogacy, legal services, and government contracting industries. Here are some of the recent projects I have designed and developed:
 
 - 🏎️ [OMP Racing](https://ompracing.com/)
-- 🏁 [BELL Helmets](https://www.us.bellracing.com/)
 - 👩‍⚖️ [Thomas & Thomas](https://thomasandthomas.flywheelsites.com/)
 - 🤖 [Nnaico - AI Consulting Agency](https://www.nnaico.com/)
+- 🏁 [BELL Helmets](https://www.us.bellracing.com/)
 
 ## 🙌 I’m always a big YES to new opportunities
 
